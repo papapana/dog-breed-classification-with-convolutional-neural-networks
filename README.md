@@ -22,7 +22,7 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 	
 	```	
 		git clone https://github.com/papapana/dog-breed-classification-with-convolutional-neural-networks.git
-		cd dog-breed-classification-with-convolutional-neural-networks.git
+		cd dog-breed-classification-with-convolutional-neural-networks
 		pip install -r requirements.txt
 	```
 3. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
